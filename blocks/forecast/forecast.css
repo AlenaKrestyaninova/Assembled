@@ -1,0 +1,30 @@
+.forecast__content {
+    max-width: calc(100% - 2*220px);
+    margin: 0 auto;
+    padding-top: 135px;
+    box-sizing: border-box;
+}
+
+.forecast__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 1.24;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.forecast__subtitle {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.48;
+    color: #A9B0BE;
+    margin: 0;
+}
+
+.forecast__img {
+    width: 100%;
+}

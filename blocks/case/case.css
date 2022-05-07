@@ -1,0 +1,20 @@
+.case {
+    padding-top: 46px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.case__text {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 20px;
+    color: #7CBA72;
+    margin: 0;
+}
+
+.case__arrow {
+    padding-left: 16px;
+}

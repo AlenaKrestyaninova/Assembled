@@ -1,0 +1,48 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+
+
+/* Раздел top*/
+@import url(../blocks/top/top.css);
+
+
+/* Раздел navbar*/
+@import url(../blocks/navbar/navbar.css);
+
+
+/* Раздел header*/
+@import url(../blocks/header/header.css);
+
+
+/* Раздел forecast*/
+@import url(../blocks/case/case.css);
+@import url(../blocks/forecast/forecast.css);
+
+
+/* Раздел features*/
+@import url(../blocks/features/features.css);
+@import url(../blocks/cards/cards.css);
+
+
+/* Раздел technology*/
+@import url(../blocks/technology/technology.css);
+@import url(../blocks/cards/_type/cards_type_4.css);
+
+
+/* Раздел app*/
+@import url(../blocks/app/app.css);
+
+
+/* Раздел contact*/
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/form/form.css);
+
+
+/* Раздел footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/table/table.css);
+
+
+@import url(../blocks/page/__size/page__size.css);
