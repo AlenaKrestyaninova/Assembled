@@ -19,8 +19,17 @@
   @font-face {
     font-family: 'Roboto';
     font-style:  normal;
-    font-weight: 400;
+    font-weight: 700;
     font-display: swap;
     src: url(./Roboto-Bold.woff2) format("woff2"),
         url(./Roboto-Bold.woff) format("woff");
+  }
+
+  @font-face {
+    font-family: 'IBM Plex Sans';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(./IBMPlexSans-Bold.woff2) format("woff2"),
+        url(./IBMPlexSans-Bold.woff) format("woff");
   }

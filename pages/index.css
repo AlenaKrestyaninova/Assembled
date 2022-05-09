@@ -21,9 +21,8 @@
 @import url(../blocks/forecast/forecast.css);
 
 
-/* Раздел features*/
-@import url(../blocks/features/features.css);
-@import url(../blocks/cards/cards.css);
+/* Раздел schedule*/
+@import url(../blocks/schedule/schedule.css);
 
 
 /* Раздел technology*/

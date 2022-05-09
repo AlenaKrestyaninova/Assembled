@@ -1,0 +1,28 @@
+.schedule {
+    max-width: 988px;
+    margin: 0 auto;
+}
+
+.schedule__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 1.21;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 auto;
+    max-width: 684px;
+}
+
+.schedule__subtitle {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.48;
+    text-align: center;
+    color: #A9B0BE;
+    max-width: 576px;
+    margin: 0 auto;
+}
