@@ -8,12 +8,15 @@
     padding-top: 135px;
     box-sizing: border-box;
     display: flex;
+    justify-content: space-between;
     padding-bottom: 158px;
+    max-width: 1000px;
 }
 
 .forecast__text {
     padding-top: 60px;
-    padding-right: 101px;
+    padding-right: 20px;
+    max-width: 306px;
 }
 
 .forecast__title {
@@ -24,7 +27,6 @@
     line-height: 1.24;
     color: #FFFFFF;
     margin: 0;
-    
 }
 
 .forecast__subtitle {
@@ -38,25 +40,7 @@
     padding-top: 21px;
 }
 
-.forecast__images {
-    position: relative;
-}
-
 .forecast__img {
-    max-width: 583px;
-}
-
-.forecast__img::after {
-    content: 'blah';
-    background-image: url(../../images/Group\ 2.svg);
-    position: absolute;
-    bottom: -24px;
-    right: -24px;
-}
-
-/*.forecast__background {
-    background-image: url(../../images/Group\ 2.svg);
-    position: absolute;
-    bottom: 24px;
-    right: 24px;
+    max-width: 607px;
+    background-size: cover;
 }

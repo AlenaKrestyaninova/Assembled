@@ -1,0 +1,67 @@
+.touch {
+    max-width: 97%;
+    background: #21ABA8;
+    margin: 0 auto;
+}
+
+.touch__content {
+    padding-top: 75px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 84%;
+    margin: 0 auto;
+    padding-bottom: 88px;
+    align-items: flex-end;
+}
+
+.touch__text {
+    max-width: 331px;
+}
+
+.touch__title {
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 1.02;
+    margin: 0;
+}
+
+.touch__subtitle {
+    font-size: 14px;
+    line-height: 1.43;
+    padding-top: 35px;
+    margin: 0;
+}
+
+.touch__input {
+    border: none;
+    box-shadow: 0px 2px 0px #0E1220;
+    background-color: transparent;
+    padding-right: 30px;
+    margin-right: 20px;
+}
+
+.touch__input::placeholder {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.48;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.29);
+}
+
+.touch__input:focus {
+    border: none;
+    background-color: #40AB7E;
+    opacity: .5;
+}
+
+.touch__button {
+    height: 48px;
+    border: 2px solid #0E1220;
+    filter: drop-shadow(0px 2px 0px #000000);
+    border-radius: 30px;
+    background-color: transparent;
+    width: 127px;
+    padding: 0;
+}

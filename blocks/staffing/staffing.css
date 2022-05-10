@@ -1,0 +1,30 @@
+.staffing {
+    margin: 0 auto;
+    padding-top: 186px;
+    max-width: 1000px;
+    color: #0E1220;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+.staffing__background {
+    background-color: #40AB7E;
+    border: 2px solid #0E1220;
+    box-shadow: 0px 4px 0px #0E1220;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.staffing__title {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 114px;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 1.21;
+}
+
+.staffing__button {
+    margin-top: 31px;
+    margin-bottom: 122px;
+}

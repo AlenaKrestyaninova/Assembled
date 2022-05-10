@@ -1,9 +1,10 @@
-.schedule {
+.empower {
+    max-width: 1048px;
     margin: 0 auto;
-    width: 100%;
+    padding-top: 150px;
 }
 
-.schedule__title {
+.empower__title {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -12,10 +13,9 @@
     text-align: center;
     color: #FFFFFF;
     margin: 0 auto;
-    max-width: 684px;
 }
 
-.schedule__subtitle {
+.empower__subtitle {
     font-family: 'IBM Plex Sans';
     font-style: normal;
     font-weight: 700;
@@ -23,14 +23,13 @@
     line-height: 1.48;
     text-align: center;
     color: #A9B0BE;
-    max-width: 576px;
+    max-width: 579px;
     margin: 0 auto;
+    padding-top: 16px;
 }
 
-.schedule__img {
-    padding-top: 23px;
-    max-width: 997px;
-    margin: 0 auto;
-    display: block;
-    padding-bottom: 71px;
+.empower__title_smaller {
+    font-weight: 400;
+    padding-top: 74px;
+    padding-bottom: 77px;
 }

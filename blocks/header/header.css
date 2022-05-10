@@ -1,5 +1,4 @@
 .header__content {
-
     text-align: center;
     margin: 40px auto 0;
     position: relative;
@@ -38,9 +37,8 @@
     background-color: #40AB7E;
     border: 2px solid #0E1220;
     box-shadow: 0px 4px 0px #0E1220;
+    max-width: 100%;
 }
-
-
 
 .header__title {
     font-family: 'Roboto';
@@ -70,16 +68,6 @@
 
 .header__button {
     margin-top: 20px;
-    background: #7CBA72;
-    border: 2px solid #0E1220;
-    box-shadow: 0px 4px 0px #0E1220;
-    border-radius: 60px;
-    font-size: 21px;
-    line-height: .95;
-    text-align: center;
-    color: #0E1220;
-    width: 211px;
-    height: 66px;
     margin-bottom: 108px;
 }
 

@@ -1,0 +1,29 @@
+.empower-content {
+    width: 100%;
+    display: flex;
+    padding-top: 24px;
+    justify-content: space-between;
+}
+
+.empower-content__item {
+    display: block;
+}
+
+.empower-content__heading {
+    display: flex;
+    padding-bottom: 22px;
+}
+
+.empower-content__logo {
+    padding-right: 16px;
+}
+
+.empower-content__title {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.48;
+    color: #A9B0BE;
+    margin: 0;
+}

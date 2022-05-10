@@ -1,0 +1,35 @@
+.real-time {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 148px;
+    align-items: center;
+}
+
+.real-time__img {
+    max-width: 584px;
+}
+
+.real-time__text {
+    max-width: 339px;
+    padding-left: 20px;
+}
+
+.real-time__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.11;
+    color: #FFFFFF;
+}
+
+.real-time__subtitle {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.48;
+    color: #A9B0BE;
+}
