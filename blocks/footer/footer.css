@@ -1,6 +1,8 @@
 .footer {
     background-color: #0E1220;
     width: 100%;
+    min-height: 453px;
+    margin-top: 76px;
 }
 
 .footer__content {
@@ -13,6 +15,7 @@
 .footer__img {
     margin: 0 auto;
     text-align: center;
+    display: block;
 }
 
 .footer__columns {
@@ -56,12 +59,12 @@
 }
 
 .footer__copyright {
-    color: #FFFFFF;
+    color: #D3D8E1;
     font-family: 'IBM Plex Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 1.07;
     margin-top: 50px;
-    padding-bottom: 50px;
+    margin-bottom: 0;
 }

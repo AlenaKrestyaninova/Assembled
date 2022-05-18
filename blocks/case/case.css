@@ -1,8 +1,9 @@
 .case {
     padding-top: 46px;
-    margin: 0 auto;
+    margin: 0;
     display: flex;
     justify-content: center;
+    cursor: pointer;
 }
 
 .case__text {
