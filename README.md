@@ -7,7 +7,8 @@
 **Интро**
 
 В данном задании реализован проект Assembled.
-Страницв сверстана согласно макету [в Figma](https://www.figma.com/file/DDSvphzPw7HjdDv4pv3YPd/Assembled?node-id=1%3A2)
+Данная страница является тренировкой навыков верстки.
+Страница сверстана согласно макету [в Figma](https://www.figma.com/file/DDSvphzPw7HjdDv4pv3YPd/Assembled?node-id=1%3A2)
 Сайт адаптирован для экрана шириной от 1440px.
 
 ### Использованные технологии:

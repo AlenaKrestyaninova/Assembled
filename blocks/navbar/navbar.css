@@ -5,6 +5,7 @@
 
 .navbar__content {
     width: calc(100% - 2*120px);
+    max-width: 1200px;
     margin: 0 auto;
     padding-top: 16px;
     padding-bottom: 16px;

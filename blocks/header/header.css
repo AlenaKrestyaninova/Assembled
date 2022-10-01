@@ -75,7 +75,7 @@
     margin: 0 auto;
     padding-left: 0;
     list-style: none;
-    max-width: calc(100% - 2*220px);
+    max-width: 1000px;
     padding-top: 60px;
     display: flex;
     justify-content: space-between;
